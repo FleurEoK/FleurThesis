@@ -1,0 +1,72 @@
+/.ICEauthority
+/.Xauthority
+/.bash_history
+/.bash_profile
+/.bashrc
+/.cache
+/.config
+/.dbus
+/.dotnet
+/.esd_auth
+/.gnupg
+/.kaggle
+/.lesshst
+/.local
+/.nv
+/.python_history
+/.ssh
+/.vim
+/.viminfo
+/.vnc
+/.vscode-server
+/.wget-hsts
+/Desktop
+/imagenet-subset
+/ondemand
+/Falcon/Falcon-main/slurm-*
+
+
+# PyTorch/Model Checkpoints*.pth
+*.pth.tar
+*.pth
+
+*.backup
+*.lock
+
+# Data Files
+*.jsonl
+*.json
+*.csv
+*.geojson
+*.parquet
+*.html
+*.zip
+*.tar.gz
+*.tar
+*.txt
+*.pyc
+*.mat
+*.pkl
+*.config
+*.ckpt
+*.cfg
+*.csh
+*.log
+*.fish
+
+#virtual environment
+Falcon/myvenv311/
+Falcon/myvenv/
+SemAIM/myvenv/
+
+# Images
+*.png
+*.jpg
+*.jpeg
+
+# Scripts and Job Files
+*.sh
+*.job
+
+# Output/Log Files
+*.out
