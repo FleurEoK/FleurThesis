@@ -59,13 +59,15 @@ Falcon/myvenv311/
 Falcon/myvenv/
 SemAIM/myvenv/
 
+#claude
+/.claude
+
 # Images
 *.png
 *.jpg
 *.jpeg
 
 # Scripts and Job Files
-*.sh
 *.job
 
 # Output/Log Files
